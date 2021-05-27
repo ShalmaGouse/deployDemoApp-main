@@ -1,6 +1,7 @@
 {
   "Allcountry": {
-    "country": [{
+    "country": [
+      {
         "name": "Afghanistan",
         "code": "AF"
       },
@@ -975,7 +976,8 @@
     ]
   },
   "AllState": {
-    "state": [{
+    "state": [
+      {
         "value": "AN",
         "viewValue": "Andaman and Nicobar Islands"
       },
@@ -1122,6 +1124,5 @@
     ]
   },
   "AddMembers": {
-      "addMember": []
   }
 }
